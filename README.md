@@ -5,9 +5,7 @@
 
 ## 🚀 About Me
 
-Dedicated and skilled full-stack blockchain developer with a strong foundation in blockchain technology and proficiency in the MERN (MongoDB, ExpressJS, React, and NodeJS) stack. My expertise lies in utilizing a diverse range of tools and techniques to create secure, scalable, and innovative blockchain solutions for businesses that prioritize customer experience.
-
-Conceptual & Hands-on Experience in Developing Decentralized Blockchain applications.
+Creative and results-driven software engineer with a strong background in full-stack development and blockchain technology. Proficient in the MERN stack with hands-on experience in crafting decentralized applications.
 
 ## 🛠️ Technologies I Work With
 * **DLT Frameworks and Tools:** Hyperledger Fabric, Hyperledger Bevel, Hyperledger Explorer 
